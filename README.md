@@ -71,7 +71,7 @@ Ecome/
 ---
 
 🤝 Контакты
-✉️ Email: your.email@example.com
+✉️ Email: maxonyushko71@gmail.com
 💬 Telegram: @Jkoffical2024 https://t.me/Jkoffical2024
 👔 LinkedIn:[ MagistrTheOne](https://www.linkedin.com/in/magistrtheone/)
 🐙 GitHub: MagistrTheOne

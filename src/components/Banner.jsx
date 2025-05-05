@@ -10,7 +10,7 @@ const Banner = () => {
           <p>Starting at $15.00</p>
           <button className="shop-now-btn">Shop Now</button>
         </div>
-        <img src="/src/assets/images/banner.png" alt="Modern Sunglasses" className="banner-image" />
+        <img src="/images/banner.png" alt="Modern Sunglasses" className="banner-image" />
       </div>
     </div>
   );

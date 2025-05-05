@@ -1,5 +1,5 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Topbar from './components/TopBar'; // Исправлен регистр с Topbar на TopBar
+import Topbar from './components/TopBar';
 import Header from './components/Header';
 import Nav from './components/Nav';
 import Banner from './components/Banner';
@@ -16,9 +16,9 @@ import Trending from './components/Trending';
 import './index.css';
 
 const PRODUCTS = [
-  { id: 1, name: 'Xiaomi 12T Pro', price: 100, image: '/src/assets/images/xiaomi.png' },
-  { id: 2, name: 'Mackbook', price: 1200, image: '/src/assets/images/mackbook.png' },
-  { id: 3, name: 'Samsung Galaxy', price: 800, image: '/src/assets/images/samsung.png' },
+  { id: 1, name: 'Xiaomi 12T Pro', price: 100, image: '/images/xiaomi.png' },
+  { id: 2, name: 'Mackbook', price: 1200, image: '/images/mackbook.png' },
+  { id: 3, name: 'Samsung Galaxy', price: 800, image: '/images/samsung.png' },
 ];
 
 // Home component to render the main page

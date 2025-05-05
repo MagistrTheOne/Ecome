@@ -1,6 +1,6 @@
 # Ecome — React E-Commerce Platform 🚀
 
-**Ecommerce SPA** на базе React 19, Vite и Tailwind CSS. Показывает современный подход к разработке через:
+**Ecommerce SPA** на базе React 19, Vite и basic CSS. Показывает современный подход к разработке через:
 
 * **Tailwind CSS** для быстрой стилизации и адаптивности
 * **React Router** для клиентского роутинга
@@ -71,7 +71,7 @@ Ecome/
 ---
 
 🤝 Контакты
-✉️ Email: your.email@example.com
+✉️ Email: maxonyushko71@gmail.com
 💬 Telegram: @Jkoffical2024 https://t.me/Jkoffical2024
 👔 LinkedIn:[ MagistrTheOne](https://www.linkedin.com/in/magistrtheone/)
 🐙 GitHub: MagistrTheOne

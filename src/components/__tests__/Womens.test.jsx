@@ -4,6 +4,6 @@ import Womens from '../Womens';
 describe('Womens Component', () => {
   test('renders Womens page with title', () => {
     render(<Womens />);
-    expect(screen.getByText(/womens/i)).toBeInTheDocument();
+    expect(screen.getByText('Женская одежда')).toBeInTheDocument();
   });
 });

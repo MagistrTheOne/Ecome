@@ -4,6 +4,6 @@ import Perfume from '../Perfume';
 describe('Perfume Component', () => {
   test('renders Perfume page with title', () => {
     render(<Perfume />);
-    expect(screen.getByText(/perfume/i)).toBeInTheDocument();
+    expect(screen.getByText('Парфюмерия')).toBeInTheDocument();
   });
 });

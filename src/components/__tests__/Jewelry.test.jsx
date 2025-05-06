@@ -4,6 +4,6 @@ import Jewelry from '../Jewelry';
 describe('Jewelry Component', () => {
   test('renders Jewelry page with title', () => {
     render(<Jewelry />);
-    expect(screen.getByText(/jewelry/i)).toBeInTheDocument();
+    expect(screen.getByText('Украшения')).toBeInTheDocument();
   });
 });

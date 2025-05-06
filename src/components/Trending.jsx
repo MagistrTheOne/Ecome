@@ -1,12 +1,12 @@
 import React from 'react';
 
-const Womens = () => {
+const Trending = () => {
   return (
     <div className="page-section">
-      <h2>Женская одежда</h2>
-      <p>Коллекция женской одежды и аксессуаров.</p>
+      <h2>Trending</h2>
+      <p>Here are the trending products.</p>
     </div>
   );
 };
 
-export default Womens;
+export default Trending;

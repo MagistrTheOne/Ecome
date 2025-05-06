@@ -1,10 +1,11 @@
 import React from 'react';
 
-const Topbar = () => {
+const TopBar = () => {
   return (
     <div className="top-bar">
+      <p>Welcome to Ecome</p>
     </div>
   );
 };
 
-export default Topbar;
+export default TopBar;

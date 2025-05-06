@@ -1,9 +1,10 @@
+import { describe, test, expect } from 'vitest';
 import { render, screen } from '@testing-library/react';
-import CategoryNav from '../CategoryNav';
+import Categories from '../Categories';
 
-describe('CategoryNav Component', () => {
+describe('Categories Component', () => {
   test('renders category cards', () => {
-    render(<CategoryNav />);
-    expect(screen.getByText(/dress/i)).toBeInTheDocument();
+    render(<Categories />);
+    expect(screen.getByText('Категории')).toBeInTheDocument();
   });
 });

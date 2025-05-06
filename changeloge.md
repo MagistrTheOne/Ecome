@@ -1,6 +1,6 @@
 # Changelog
 
-## 2024-06-17
+##06-05-25
 - Updated TopBar component to display welcome message and renamed export.
 - Refactored Trending component to render correct title and content.
 - Modified Card test to pass correct props and improve assertions.
